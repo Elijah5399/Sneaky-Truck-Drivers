@@ -37,13 +37,13 @@ They get commission from completing these priority deliveries | They know with m
 
 - Key features of Java
 
-    >We utilised Object-Oriented Programming (OOP) and followed OOP principles where possible. For instance, class fields are kept private to maintain an abstraction barrier, with public methods to modify and obtain data. (This is evident in the Day.java and Timeslot.java files)
+ >We utilised Object-Oriented Programming (OOP) and followed OOP principles where possible. For instance, class fields are kept private to maintain an abstraction barrier, with public methods to modify and obtain data. (This is evident in the Day.java and Timeslot.java files)
     
-    >We utilised Java's inbuilt interfaces and classes to our advantage, for instance in the use of Lists and ArrayLists in Bot.java.
+ >We utilised Java's inbuilt interfaces and classes to our advantage, for instance in the use of Lists and ArrayLists in Bot.java.
     
 ### Telegram Bot API
 
-    >We heavily utilised the Telegram Bot API, and heavily relied on its methods to retrieve data on messages/commands which the bot receives.
+ >We heavily utilised the Telegram Bot API, and heavily relied on its methods to retrieve data on messages/commands which the bot receives.
     
     >Some examples include the .getMessage and .getChatId methods
     
