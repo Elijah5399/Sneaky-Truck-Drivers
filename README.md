@@ -45,15 +45,15 @@ They get commission from completing these priority deliveries | They know with m
 
  >We heavily utilised the Telegram Bot API, and heavily relied on its methods to retrieve data on messages/commands which the bot receives.
     
-    >Some examples include the .getMessage and .getChatId methods
+ >Some examples include the .getMessage and .getChatId methods
     
 ### Huawei Cloud
 
-    >We were able to set up an Elastic Cloud Server on Huawei Cloud 
+ >We were able to set up an Elastic Cloud Server on Huawei Cloud 
     
 ### Stripe API
 
-    >We used the Stripe API to make it possible for the user to submit a payment
+ >We used the Stripe API to make it possible for the user to submit a payment
     
 Note: To duplicate the bot, create a new bot using botFather and obtain the bot key. Also create an account and set up a payment link on stripe. Substitute the fields in the files with these. These files can be substituted in when a new project has been created on Intellij IDEA using Maven as a dependency manager. Add relevant modules and libraries in the project structure.
 
