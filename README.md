@@ -1,5 +1,5 @@
 # NinjaSlot
-
+![Screenshot 2023-02-26 at 3 48 49 PM](https://user-images.githubusercontent.com/22656175/221398673-9502cfa0-efb2-48b7-883a-db72c0d864bc.png)
 ### Our idea
 To implement a scheduling functionality into NinjaChat on Telegram. What is the benefit of this, you may ask?
 
@@ -56,3 +56,4 @@ They get commission from completing these priority deliveries | They know with m
     >We used the Stripe API to make it possible for the user to submit a payment
     
 Note: To duplicate the bot, create a new bot using botFather and obtain the bot key. Also create an account and set up a payment link on stripe. Substitute the fields in the files with these. These files can be substituted in when a new project has been created on Intellij IDEA using Maven as a dependency manager. Add relevant modules and libraries in the project structure.
+
