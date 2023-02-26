@@ -54,3 +54,5 @@ They get commission from completing these priority deliveries | They know with m
 ### Stripe API
 
     >We used the Stripe API to make it possible for the user to submit a payment
+    
+Note: To duplicate the bot, create a new bot using botFather and obtain the bot key. Also create an account and set up a payment link on stripe. Substitute the fields in the files with these. These files can be substituted in when a new project has been created on Intellij IDEA using Maven as a dependency manager. Add relevant modules and libraries in the project structure.
